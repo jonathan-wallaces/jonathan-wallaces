@@ -1,4 +1,4 @@
-### Olá, eu sou o Jonathan, técnico de T.I. e iniciante no mundo da programação.
+### Olá, eu sou o Jonathan, técnico de T.I. e desenvolvedor Java.
 <div align="center">
   <a href="https://github.com/jonathan-wallaces">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jonathan-wallaces&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
